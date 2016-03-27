@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         Person p=new Person();
-        p.setPrenom("Fassi Fihri");
+        p.setNom("Fassi Fihri");
     }
 }
